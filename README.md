@@ -23,20 +23,6 @@ Perfect for learning backend fundamentals like routing, CRUD operations, validat
 - nodemon (for development)
 
 ---
-
-## 📂 Folder Structure
-
-BookAPI/
-├── controllers/ # Request logic
-│ └── bookController.js
-├── models/ # Mongoose schema
-│ └── bookModel.js
-├── routes/ # API routes
-│ └── bookRoutes.js
-├── server.js # App entry point
-├── package.json
-
-
 ---
 
 ## ⚙️ Getting Started
